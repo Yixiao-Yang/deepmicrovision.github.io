@@ -31,7 +31,7 @@ Beijing Institute of Technology
 # 🎓 PhD Students
 
 ## 杨小冬  
-PhD Student, Co-supervised by Professor Ran Tao
+PhD Student, Co-supervised by Professor Ran Tao  
 Research: Cryo-electron microscopy image processing based on diffusion model
 
 ## 张志怡  
