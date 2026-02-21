@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 
 (* indicates corresponding author)
 
@@ -132,10 +131,4 @@ IGARSS 2022.
 arXiv:xxxx.xxxxx.  
 [[arXiv]](#)
 
----
-
-# Patents (optional)
-
-**Yixiao Yang**, Author2.  
-Title of Patent, Year.
 
