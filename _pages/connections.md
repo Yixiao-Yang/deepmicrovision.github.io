@@ -5,7 +5,6 @@ permalink: /connections/
 author_profile: true
 ---
 
-# Collaborations
 
 The **Deep MicroVision Lab** actively collaborates with leading research groups in signal processing, computational imaging, and AI for science. Our collaborations focus on advancing theoretical foundations and practical algorithms for next-generation imaging systems.
 
