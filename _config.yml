@@ -26,12 +26,12 @@ repository: "Yixiao-Yang/deepmicrovisionlab"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/profile.jpg"
-  name             : "Yixiao Yang（杨义校）"
+  avatar: "{{ site.baseurl }}/images/profile.jpg"  
+  name             : "Yixiao Yang（杨义校）"  
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
-  location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  bio              : "Assistant Professor"  
+  location         : "Beijing, China"  
+  employer         : "Beijing Institute of Technology"  
   uri              : # URL
   email            : "yangyixiao@bit.edu.cn" 
 
